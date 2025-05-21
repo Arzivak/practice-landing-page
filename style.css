@@ -107,7 +107,28 @@ h2{
     margin: auto;
 }
 
-.endorsement{
-    background-color: gray;
-    padding: 50px;
+.image-card p{
+    text-align: center;
+    width: 100px;
 }
+
+.endorsement{
+    background-color: lightgray;
+    padding: 50px;
+    font-size: 20px;
+    padding: 10%;
+}
+
+.call-to-action{
+    background-color: #3882f6;
+    color: white;
+    border-radius: 8pt;
+    height: 50%;
+    width: 80%;
+    min-height: 100px;
+    margin: 5% 20%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+}
+
